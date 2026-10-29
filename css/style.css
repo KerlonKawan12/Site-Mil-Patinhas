@@ -1038,7 +1038,7 @@ section[id] {
 
 .whatsapp-float {
   position: fixed;
-  right: 17px;
+  left: 17px;
   bottom: 17px;
   z-index: 900;
   min-height: 54px;
